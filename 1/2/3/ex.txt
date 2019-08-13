@@ -1,1 +1,0 @@
-This is an example file for recursive git add practice.
