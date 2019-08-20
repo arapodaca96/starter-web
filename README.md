@@ -7,8 +7,14 @@ Sample website with plenty of files for demos
 
 ## Introduction
 
+This is the introduction to the README file.
+
 ## Purpose
+
+The purpose is to provide information regarding this project.
 
 ## Deployment
 
 ## How To Contribute
+
+Don't.
