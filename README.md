@@ -18,3 +18,6 @@ The purpose is to provide information regarding this project.
 ## How To Contribute
 
 Don't.
+
+Alejandro Apodaca 2019 (c)
+All rights reserved,
