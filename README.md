@@ -17,7 +17,7 @@ The purpose is to provide information regarding this project.
 
 ## How To Contribute
 
-Don't.
+Don't. Please fork this repo and then issue pull request.
 
 Alejandro Apodaca 2019 (c)
 All rights reserved,
